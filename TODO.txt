@@ -1,4 +1,3 @@
-- Estudar Git/GitHub
+- Estudar Git
 - Estudar piano
 - Cortar o cabelo
-- Fiz merda aqui e quero voltar.
