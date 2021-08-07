@@ -1,1 +1,3 @@
-Some text added to DONE.txt
+Some text added on DONE.txt
+Linha 2
+Linha 3

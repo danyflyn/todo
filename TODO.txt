@@ -1,2 +1,3 @@
-- Estudar Git
+- Estudar Git/GitHub
 - Estudar piano
+- Cortar o cabelo
